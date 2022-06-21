@@ -15,4 +15,5 @@ Today is Monday --> "Today is Monday"
 PROMPT  - A question or statement that the computer asks the user 
 
  Python stores the __input__ in the __variableName__
- 
+ ## My Notes
+ handler_input.request_envelope.request.intent.slots["myFood"].value is how you make a follow up question on Alexa
